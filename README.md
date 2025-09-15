@@ -25,14 +25,7 @@ campaigns, dates, products, and marketing channels.
 ---
 
 ## Dashboard Preview  
-![Power BI Dashboard](powerbi_dashboard.png)  
-
----
-
-## Key Insights  
-- Revenue increased steadily in Q4 compared to Q3.  
-- Top product category contributed **40%+ of total revenue**.  
-- Region X recorded the **highest sales volume** overall.  
+![Power BI Dashboard](pbi_dashboard.png)  
 
 ---
 
